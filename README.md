@@ -37,5 +37,5 @@ Make sure to open Outlook on your computer before running the script to avoid an
 ## Customization
 You can customize the Word template and Excel file format according to your needs. Just ensure the script is updated accordingly to correctly read data and fill the template.
 
-# #Contributing
+## Contributing
 Contributions are welcome! If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
